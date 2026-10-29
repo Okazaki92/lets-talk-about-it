@@ -44,5 +44,56 @@
   "mainEvents": "Events",
   "logoTitle": "Community | Relationships | Events",
   "seeMore": "Learn more",
-  "signSoon": "Sign-ups opening soon"
+  "signSoon": "Sign-ups opening soon",
+  "team": {
+    "title": "Team",
+    "members": [
+      {
+        "name": "Karolina Bożemska",
+        "paragraphs": [
+          "The creative spirit of Let’s talk.",
+          "A designer with a big heart and a flair for marketing.",
+          "She creates all of the community’s graphic gems."
+        ]
+      },
+      {
+        "name": "Agnieszka Ezenta",
+        "paragraphs": [
+          "The undisputed chief of events.",
+          "No organisational or event detail escapes her.",
+          "Her sense of humour defuses every communication crisis."
+        ]
+      },
+      {
+        "name": "Edyta Malicka",
+        "paragraphs": [
+          "A tester with a passion for the medical field and for content that captures the emotions surrounding the Let's talk about IT initiative. She shares her positive energy, helping to shape the heart of the Let's talk team."
+        ]
+      },
+      {
+        "name": "Justyna Gajdek",
+        "paragraphs": [
+          "A copywriter with a developer’s blue blood running through her veins.",
+          "The kind soul of the team.",
+          "She wins over event participants with her inner calm and sincerity."
+        ]
+      },
+      {
+        "name": "Adrian Ezenta",
+        "paragraphs": [
+          "The youngest member of the Let’s talk team, whose maturity puts senior colleagues to shame.",
+          "He knows social media.",
+          "Our Instagram is the result of his well-coordinated work."
+        ]
+      },
+      {
+        "name": "Vincent Słomiński",
+        "paragraphs": [
+          "A developer who breaks the ‘basement coder’ stereotype.",
+          "An extraordinary mix of soft and tech skills.",
+          "Every line of Let’s talk code is his work."
+        ]
+      }
+    ]
+  }
 }

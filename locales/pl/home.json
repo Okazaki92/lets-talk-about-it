@@ -44,5 +44,56 @@
   "mainEvents": "Wydarzenia",
   "logoTitle": "Społeczność | Relacje | Wydarzenia",
   "seeMore": "Dowiedz się więcej",
-  "signSoon": "Zapisy już wkrótce"
+  "signSoon": "Zapisy już wkrótce",
+  "team": {
+    "title": "Zespół",
+    "members": [
+      {
+        "name": "Karolina Bożemska",
+        "paragraphs": [
+          "Kreatywny duch Let’s talk.",
+          "Designerka z wielkim sercem i marketingowym zacięciem.",
+          "Spod jej rąk wychodzą wszystkie graficzne perełki społeczności."
+        ]
+      },
+      {
+        "name": "Agnieszka Ezenta",
+        "paragraphs": [
+          "Wydarzeniowy Chief - bez dwóch zdań.",
+          "Nie umknie jej żaden organizacyjno-eventowy szczegół.",
+          "Poczuciem humoru rozbraja każdą komunikacyjną bombę."
+        ]
+      },
+      {
+        "name": "Edyta Malicka",
+        "paragraphs": [
+          "Testerka z zamiłowaniem do branży medycznej i treści oddających emocje towarzyszące inicjatywie Let's talk about IT. Dzieli się pozytywną energią, współtworząc serce Let's talkowego teamu."
+        ]
+      },
+      {
+        "name": "Justyna Gajdek",
+        "paragraphs": [
+          "Copywriterka, w której żyłach płynie błękitna developerska krew.",
+          "Dobry duch zespołu.",
+          "Uczestników wydarzeń urzeka wewnętrznym spokojem i szczerością."
+        ]
+      },
+      {
+        "name": "Adrian Ezenta",
+        "paragraphs": [
+          "Najmłodszy członek zespołu Let’s talk, który dojrzałością zawstydza seniorów.",
+          "Potrafi w social media.",
+          "Instagram to owoc jego zgranej pracy."
+        ]
+      },
+      {
+        "name": "Vincent Słomiński",
+        "paragraphs": [
+          "Developer burzący “piwniczne schematy”.",
+          "Niezwykły miks soft i tech skilli.",
+          "Każda linijka Let’s talkowego kodu, to jego dzieło."
+        ]
+      }
+    ]
+  }
 }

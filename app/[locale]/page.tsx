@@ -25,6 +25,7 @@ import Instagram from '@/components/Instagram/Instagram';
 import { Header } from '@/components/Header/Header';
 import Facebook from '@/components/Facebook/Facebook';
 import { getSeoLocale, getStaticPageMetadata } from '@/lib/seo';
+import Team, { type TeamContent } from '@/components/Team/Team';
 
 const i18nNamespaces = ['home'];
 
@@ -147,6 +148,7 @@ const Home = async ({ params: { locale } }: { params: { locale: Locale } }) => {
         </div>
       )}
       <JoinUs join_us={join_us} locale={locale} />
+      <Team content={t('team', { returnObjects: true }) as TeamContent} />
       <div className="bg-main-black py-20 overflow-hidden">
         <PartnersCarousel locale={locale} isMain translation={t} />
       </div>
