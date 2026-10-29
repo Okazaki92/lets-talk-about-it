@@ -95,5 +95,11 @@
         ]
       }
     ]
+  },
+  "newsletter": {
+    "title": "Biuletyn",
+    "description": "Piszemy o power skills, kompetencjach przyszłości i przywództwie. Rozgośćcie się. Zapraszamy!",
+    "linkLabel": "Czytaj biuletyn na LinkedIn",
+    "href": "https://www.linkedin.com/newsletters/let-s-talk-about-it-%25F0%259D%2598%2595%25F0%259D%2598%25A6%25F0%259D%2598%25B8%25F0%259D%2598%25B4-7263937589882015744/"
   }
 }

@@ -95,5 +95,11 @@
         ]
       }
     ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "We write about power skills, skills for the future and leadership. Make yourself at home. Welcome!",
+    "linkLabel": "Read on LinkedIn (in Polish)",
+    "href": "https://www.linkedin.com/newsletters/let-s-talk-about-it-%25F0%259D%2598%2595%25F0%259D%2598%25A6%25F0%259D%2598%25B8%25F0%259D%2598%25B4-7263937589882015744/"
   }
 }
